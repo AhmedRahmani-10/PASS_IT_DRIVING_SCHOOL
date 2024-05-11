@@ -1,0 +1,46 @@
+[
+  {
+    "ID": "124",
+    "FirstName": "Mary",
+    "LastName": "Kom",
+    "Gender": "Female",
+    "Email": "jane@gmail.com",
+    "Phone": "9090787890",
+    "DOB": "2007-12-31T00:00:00",
+    "Tariff": 39.0,
+    "Teaches": [
+      "Basic",
+      "Test Day"
+    ]
+  },
+  {
+    "ID": "125",
+    "FirstName": "Philip",
+    "LastName": "Marcas",
+    "Gender": "Male",
+    "Email": "philip@gmail.com",
+    "Phone": "07890789000",
+    "DOB": "2007-12-31T00:00:00",
+    "Tariff": 30.0,
+    "Teaches": [
+      "Basic",
+      "Test Day"
+    ]
+  },
+  {
+    "ID": "126",
+    "FirstName": "Saleem",
+    "LastName": "Ali",
+    "Gender": "Male",
+    "Email": "saleem@gmail.com",
+    "Phone": "09878907890",
+    "DOB": "1963-03-04T00:00:00",
+    "Tariff": 36.0,
+    "Teaches": [
+      "Basic",
+      "Refresher",
+      "Pass Plus",
+      "Test Day"
+    ]
+  }
+]
