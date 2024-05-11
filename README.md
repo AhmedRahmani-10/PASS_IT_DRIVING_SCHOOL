@@ -1,4 +1,4 @@
-# <PASS_IT_DRIVING_SCHOOL PRPJECT>
+# PASS IT DRIVING SCHOOL. A desktop application project
 
 
 
