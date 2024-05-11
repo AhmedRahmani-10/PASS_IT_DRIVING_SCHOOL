@@ -20,9 +20,10 @@ The Driving School Management System is a desktop application developed using Vi
 
 To run the Driving School Management System, the following requirements must be met:
 
-- Operating System: Windows 7 or later
+- Operating System: Windows 10 or later
 - .NET Framework: .NET 8.0 or later
 - Visual Studio 2022 (optional, required for development and modifications)
+- Newtonsoft.json package must be installed. if you are viewing in development mode
 
 ## Installation
 
